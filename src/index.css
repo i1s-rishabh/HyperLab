@@ -1,0 +1,173 @@
+@import url('https://fonts.googleapis.com/css2?family=Mulish&display=swap');
+
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+    font-family: "mulish", sans-serif;
+  }
+
+  html {
+    font-size: 16px;
+  }
+
+  body {
+    width: 100wh;
+    height: auto;
+  }
+
+  .navbar {
+    background-color: #fff !important;
+    position: relative;
+  }
+
+  .navbar-brand {
+    font-size: 1.5rem !important;
+    color: #ae07d8 !important;
+    font-weight: bold;
+  }
+
+  .navbar a {
+    font-size: 1.1rem;
+    text-transform: capitalize;
+  }
+
+  .menu_active {
+    font-weight: 700;
+    color: #ae07d8 !important;
+    border-bottom: 1px solid #ae07d8;
+  }
+
+  .navbar a:hover {
+    color: #ae07d8 !important;
+  }
+
+  .btn-get-started {
+    font-weight: 500;
+    font-size: 1rem;
+    letter-spacing: 1px;
+    display: inline-block;
+    padding: 10px 30px;
+    border-radius: 50px;
+    transition: 0.5s;
+    color: #ae07d8;
+    border: 2px solid #ae07d8;
+    text-decoration: none;
+  }
+
+  .btn-get-started:hover {
+    background-color: #ae07d8;
+    color: white;
+  }
+
+  @media (max-width: 992px) {
+    .navbar-brand {
+      font-size: 1.5rem !important;
+    }
+
+    .menu_active {
+      font-weight: bold;
+      border-bottom: none;
+    }
+
+    .top {
+      display: flex;
+      justify-content: center;
+      
+    }
+  }
+
+  /*-------- Common ---------*/
+
+  #header {
+    width: auto;
+    height: 627px;
+  }
+
+  #header h1 {
+    margin: 0 0 10px 0;
+    font-size: 3rem;
+    font-weight: 700;
+    color: black;
+  }
+
+  #header .brand-name {
+    color: #ae07d8;
+  }
+
+  #header h2 {
+    color: #484848;
+    font-size: 1.5rem;
+  }
+
+  .header-img {
+    text-align: right;
+  }
+
+  #header .animated {
+    animation: up-down 2s ease-in-out infinite alternate-reverse both;
+  }
+
+  /*-------- Card ---------*/
+
+  .card {
+    border-radius: 30px !important;
+    margin-bottom: 50px;
+  }
+
+  .img_body {
+    max-width: 100%;
+    height: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 30px !important;
+  }
+
+  .card-img-top {
+    max-width: 100% !important;
+    height: auto;
+  }
+
+  .btn-primary {
+    background-color: #ae07d8 !important;
+    border: 2px solid #ae07d8 !important;
+    border-radius: 15px !important;
+  }
+
+  .btn-primary:hover {
+    background-color: #fff !important;
+    color: #ae07d8;
+  }
+
+  /*-------- Contact Div ---------*/
+
+  .contact_div {
+    margin-bottom: 51px;
+  }
+
+   /*-------- Footer ---------*/
+   .para {
+     background-color: #ae07d8;
+     color: #fff;
+     position: absolute;
+     width: 100%;
+   }
+
+  @-webkit-keyframes up-down {
+    0% {
+      transform: translateY(10px);
+    }
+    100% {
+      transform: translateY(-10px);
+    }
+  }
+
+  @keyframes up-down {
+    0% {
+      transform: translateY(10px);
+    }
+    100% {
+      transform: translateY(-10px);
+    }
+  }
