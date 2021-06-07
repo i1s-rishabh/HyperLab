@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/HyperLab/static/css/main.183ae2dd.chunk.css",
+    "main.js": "/HyperLab/static/js/main.fe57a762.chunk.js",
+    "main.js.map": "/HyperLab/static/js/main.fe57a762.chunk.js.map",
+    "runtime-main.js": "/HyperLab/static/js/runtime-main.c986e7c2.js",
+    "runtime-main.js.map": "/HyperLab/static/js/runtime-main.c986e7c2.js.map",
+    "static/css/2.74c02967.chunk.css": "/HyperLab/static/css/2.74c02967.chunk.css",
+    "static/js/2.9ead02a0.chunk.js": "/HyperLab/static/js/2.9ead02a0.chunk.js",
+    "static/js/2.9ead02a0.chunk.js.map": "/HyperLab/static/js/2.9ead02a0.chunk.js.map",
+    "index.html": "/HyperLab/index.html",
+    "static/css/2.74c02967.chunk.css.map": "/HyperLab/static/css/2.74c02967.chunk.css.map",
+    "static/css/main.183ae2dd.chunk.css.map": "/HyperLab/static/css/main.183ae2dd.chunk.css.map",
+    "static/js/2.9ead02a0.chunk.js.LICENSE.txt": "/HyperLab/static/js/2.9ead02a0.chunk.js.LICENSE.txt",
+    "static/media/img2.7f28bb97.svg": "/HyperLab/static/media/img2.7f28bb97.svg",
+    "static/media/img3.bc754a5b.svg": "/HyperLab/static/media/img3.bc754a5b.svg",
+    "static/media/s1.59503c0d.svg": "/HyperLab/static/media/s1.59503c0d.svg",
+    "static/media/s2.da4610a9.svg": "/HyperLab/static/media/s2.da4610a9.svg",
+    "static/media/s3.7e38ce36.svg": "/HyperLab/static/media/s3.7e38ce36.svg",
+    "static/media/s4.2a3c270c.svg": "/HyperLab/static/media/s4.2a3c270c.svg",
+    "static/media/s5.feb409f0.svg": "/HyperLab/static/media/s5.feb409f0.svg",
+    "static/media/s6.e7bc0243.svg": "/HyperLab/static/media/s6.e7bc0243.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c986e7c2.js",
+    "static/css/2.74c02967.chunk.css",
+    "static/js/2.9ead02a0.chunk.js",
+    "static/css/main.183ae2dd.chunk.css",
+    "static/js/main.fe57a762.chunk.js"
+  ]
+}
