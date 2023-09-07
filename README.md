@@ -1,71 +1,33 @@
-# Getting Started with Create React App
+# Hyper_Lab Website
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Welcome to the Hyper_Lab website! This website was created as a part of the HyperVerge Academy Bootcamp and is built using a combination of HTML5, CSS3, and ReactJS. It offers a clean and responsive design for an optimal user experience.
 
-## Available Scripts
+## Explore the Website
 
-In the project directory, you can run:
+You can access the live version of the website by clicking on the following link: [Hyper_Lab Website](https://i1s-rishabh.github.io/Hyper_Lab/)
 
-### `npm start`
+## Tech Stack
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+- **HTML5:** The foundation of the website's structure and content.
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+- **CSS3:** Responsible for the website's styling and visual presentation.
 
-### `npm test`
+- **ReactJS:** A powerful JavaScript library used to create the interactive components and dynamic behavior of the website.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Screenshots
 
-### `npm run build`
+Here are some screenshots of the different sections of the website:
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+### Homepage
+![Homepage](https://user-images.githubusercontent.com/43880492/121472162-6e934500-c9de-11eb-8c8d-fb4e948056f4.PNG)
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+### Services
+![Services](https://user-images.githubusercontent.com/43880492/121472226-85d23280-c9de-11eb-88d7-41ef949eab6d.PNG)
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+### Contact 
+![Contact](https://user-images.githubusercontent.com/43880492/121472277-97b3d580-c9de-11eb-81e3-d5ed43cc9c41.PNG)
 
-### `npm run eject`
+### About
+![About](https://user-images.githubusercontent.com/43880492/121472313-a3070100-c9de-11eb-9621-61665f975746.PNG)
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Feel free to explore the website and see the fantastic work done during the HyperVerge Academy Bootcamp!
