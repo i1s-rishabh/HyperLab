@@ -1,4 +1,4 @@
-# Hyper_Lab Website
+# Hyper Lab
 
 Welcome to the Hyper_Lab website! This website was created as a part of the HyperVerge Academy Bootcamp and is built using a combination of HTML5, CSS3, and ReactJS. It offers a clean and responsive design for an optimal user experience.
 
